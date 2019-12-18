@@ -1,3 +1,4 @@
-* npm run build - собирает билд в папке dist
-* npm run lint - проверяет код Eslint'ом с конфигами airbnb-base и prettier
-* npm run clear - удаляет папку dist
+* npm run build - СЃРѕР±РёСЂР°РµС‚ Р±РёР»Рґ РІ РїР°РїРєРµ dist
+* npm run lint - РїСЂРѕРІРµСЂСЏРµС‚ РєРѕРґ Eslint'РѕРј СЃ РєРѕРЅС„РёРіР°РјРё airbnb-base Рё prettier
+* npm run clear - СѓРґР°Р»СЏРµС‚ РїР°РїРєСѓ dist
+* https://determined-darwin-c7ab9f.netlify.com/
