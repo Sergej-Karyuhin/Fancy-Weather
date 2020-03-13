@@ -1,3 +1,4 @@
+## Pure JS
 ## [Task](https://github.com/rolling-scopes-school/tasks/blob/master/tasks/fancy-weather.md)
 ## [Demo](https://determined-darwin-c7ab9f.netlify.com/)
 ## Commands
